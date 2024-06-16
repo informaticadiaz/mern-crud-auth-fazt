@@ -8,6 +8,8 @@
 
 ### Cookie Parser
 
+### Zod
+
 ## Rutas Protegidas
 
 ## Tips
