@@ -2,13 +2,19 @@
 
 ## Dependencias
 
-### Express
+### Backend
 
-### Morgan
+#### Express
 
-### Cookie Parser
+#### Morgan
 
-### Zod
+#### Cookie Parser
+
+#### Zod
+
+### FrontEnd
+
+#### React Hook Form
 
 ## Rutas Protegidas
 
