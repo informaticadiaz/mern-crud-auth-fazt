@@ -16,6 +16,8 @@
 
 #### React Hook Form
 
+#### js-cookie
+
 ## Rutas Protegidas
 
 ## Tips
